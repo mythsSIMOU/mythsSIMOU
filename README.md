@@ -1,5 +1,7 @@
+<img src="banner.jpg" alt="GitHub Banner" width="100%" />
+
 # 💫 About Me:
-👨‍💻I'm a 4th year student at ESI Algiers<br>🌱 I’m currently learning ML and mobile dev.
+👨‍💻I'm a 4th year computer science student at ESI Algiers<br>🌱 I’m currently learning ML and mobile dev.
 
 
 ## 🌐 Socials:
