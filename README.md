@@ -3,7 +3,7 @@
 <img src="banner.jpg" alt="GitHub Banner" width="100%" />
 
 ## 💫 About Me:  
-👨‍💻 I'm a 4th year Computer Science student at **ESI Algiers**  
+👨‍💻 I'm a 5th year Computer Science student at **ESI Algiers**  
 🌱 Currently learning **Machine Learning** & **Mobile Development**  
 📫 Feel free to reach me out at **lw_beldjoudi@esi.dz**  
 
