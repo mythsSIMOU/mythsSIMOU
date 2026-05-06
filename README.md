@@ -23,6 +23,9 @@
 ### 🗄️ Databases  
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase)](https://skillicons.dev)  
 
+###  Machine Learning & AI  
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn)](https://skillicons.dev)  
+
 ### 🔧 DevOps & Testing  
 [![My Skills](https://skillicons.dev/icons?i=git,github,jenkins,gherkin,postman,selenium)](https://skillicons.dev)  
 
